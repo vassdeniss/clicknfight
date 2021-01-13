@@ -1,0 +1,28 @@
+@font-face { 
+	font-family: Ancient;
+	src: url(fonts/Ancient.ttf);
+}
+
+body { 
+	font-family: Ancient;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+h1 { 
+	font-size: 40px;
+	margin-left: 15px;
+	margin-top: 20px;
+	font-style: italic;
+}
+
+h2 { 
+	font-size: 30px;
+	text-align: left;
+}
+
+p { 
+	text-align: left;
+	font-size: 30px;
+}

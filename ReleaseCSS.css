@@ -1,0 +1,15 @@
+@font-face { 
+	font-family: Ancient;
+	src: url(fonts/Ancient.ttf);
+}
+
+html * {
+	font-size: 30px;
+}
+
+body { 
+	text-align: center;
+	font-family: Ancient;
+	background-color: black;
+	color: white;
+}
